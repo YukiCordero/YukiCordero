@@ -68,6 +68,23 @@ const yuki = {
 | 🤖 [**RAG Chatbot Backend**](https://github.com/YukiCordero/rag-chatbot-backend) | Retrieval-augmented chatbot backend for grounded, document-aware answers | `Python` `RAG` `LLM` |
 | 🌐 [**Portfolio**](https://yukicordero.github.io/Portfolio/) | This is where the case studies live — results, process, and rates | `HTML` `CSS` `JS` |
 
+## 🔁 Anatomy of My Builds
+
+Every automation I ship follows the same promise: **the lead never waits, and the owner never types.**
+
+```mermaid
+flowchart LR
+    A["📞 New lead comes in"] --> B["🤖 AI agent answers<br/>voice or chat, 24/7"]
+    B --> C["✅ Lead qualified"]
+    B --> D["💬 FAQs handled"]
+    C --> E["📅 Appointment booked"]
+    C --> F["🗂️ CRM updated"]
+    F --> G["🔁 Follow-ups until reply"]
+    E --> H["📊 Clean dashboard for the owner"]
+    F --> H
+    G --> H
+```
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -81,9 +98,19 @@ const yuki = {
 
 </div>
 
-## 🐍 Contribution Graph
+## 🎮 Contributions, But Make Them Fun
+
+My commit history as a neon city — every building is a day of shipping:
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YukiCordero/YukiCordero/output/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YukiCordero/YukiCordero/output/profile-season-animate.svg" />
+  <img src="https://raw.githubusercontent.com/YukiCordero/YukiCordero/output/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</picture>
+
+And a snake eating its way through the year:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YukiCordero/YukiCordero/output/github-snake-dark.svg" />
@@ -96,6 +123,8 @@ const yuki = {
 ---
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote" />
 
 *"If I have to do it twice, it becomes a workflow."*
 
