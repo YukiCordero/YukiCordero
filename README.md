@@ -72,10 +72,12 @@ const yuki = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YukiCordero&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D8B170&icon_color=D8B170&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukiCordero&layout=compact&hide_border=true&bg_color=0d1117&title_color=D8B170&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.zohan.tech/api?username=YukiCordero&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D8B170&icon_color=D8B170&text_color=c9d1d9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=YukiCordero&layout=compact&hide_border=true&bg_color=0d1117&title_color=D8B170&text_color=c9d1d9&langs_count=8" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=YukiCordero&hide_border=true&background=0d1117&ring=D8B170&fire=D8B170&currStreakLabel=D8B170&sideLabels=c9d1d9&currStreakNum=F8EFD8&sideNums=F8EFD8&dates=64748B" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YukiCordero&hide_border=true&bg_color=0d1117&color=c9d1d9&line=D8B170&point=F8EFD8&area=true&area_color=8F6A2A" alt="Activity graph" />
 
 </div>
 
