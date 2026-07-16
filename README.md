@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E293B,100:8F6A2A&height=210&section=header&text=Yuki%20Cordero&fontSize=64&fontColor=F8EFD8&animation=fadeIn&fontAlignY=36&desc=AI%20Automation%20%C2%B7%20Voice%20Agents%20%C2%B7%20Systems%20that%20run%20while%20you%20sleep&descSize=17&descAlignY=58" width="100%" alt="banner" />
 
 <a href="https://github.com/YukiCordero">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=D8B170&center=true&vCenter=true&width=620&lines=AI+Automation+Specialist+%26+Tech+VA;I+build+agents+that+answer+leads+at+3+AM;n8n+%C2%B7+Vapi+%C2%B7+Airtable+%C2%B7+OpenAI+%C2%B7+React;Currently+automating+tasks+I+created+by+overengineering" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=D8B170&center=true&vCenter=true&width=800&height=45&lines=AI+Automation+Specialist+%26+Tech+VA;I+build+agents+that+answer+leads+at+3+AM;n8n+%C2%B7+Vapi+%C2%B7+Airtable+%C2%B7+OpenAI+%C2%B7+React;Currently+automating+tasks+I+created+by+overengineering" alt="typing intro" />
 </a>
 
 <br/>
