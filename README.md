@@ -17,24 +17,30 @@
 
 ## 🧠 About Me
 
-```typescript
-const yuki = {
-  location: "Davao City, Philippines 🇵🇭",
-  role: "AI Automation Specialist & Tech Virtual Assistant",
-  builds: [
-    "AI agents that pick up when humans can't",
-    "Lead follow-up systems that never forget to reply",
-    "Multi-tenant n8n automations for service businesses",
-    "Dashboards, trackers, and CRMs that stay clean on their own",
-  ],
-  stack: {
-    automation: ["n8n", "Zapier", "Make", "Vapi"],
-    ai: ["OpenAI", "Claude", "Groq", "RAG pipelines"],
-    code: ["JavaScript", "Python", "React", "Firebase"],
-    ops: ["Airtable", "Google Workspace", "GoHighLevel", "WhatsApp API"],
-  },
-  philosophy: "If I have to do it twice, it becomes a workflow.",
-};
+```console
+yuki@automation-hq:~$ whoami
+Yuki Cordero — AI Automation Specialist & Tech VA · Davao City, PH 🇵🇭
+
+yuki@automation-hq:~$ cat mission.txt
+I build systems that answer leads in seconds, follow up forever,
+and keep CRMs clean — so business owners can escape their inbox.
+
+yuki@automation-hq:~$ ls ~/builds
+ai-front-desk/  appointment-setter/  coffee-pos/  rag-chatbot/  job-finder/
+
+yuki@automation-hq:~$ uptime
+ 24/7 — my agents don't sleep, so my clients can
+
+yuki@automation-hq:~$ alias
+alias twice='turn-it-into-a-workflow'
+
+yuki@automation-hq:~$ history | tail -3
+  001  overengineer something simple
+  002  automate the overengineered thing
+  003  repeat
+
+yuki@automation-hq:~$ exit
+logout — don't worry, the automations keep running
 ```
 
 ## ⚙️ Tech Stack
